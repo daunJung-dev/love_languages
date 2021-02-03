@@ -1,7 +1,8 @@
 import React from "react";
+import "./App.css";
 
-const App = () => {
-  return <div>사랑의언어 테스트</div>;
-};
+function App() {
+  return <div className="App"></div>;
+}
 
 export default App;
